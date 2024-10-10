@@ -53,29 +53,4 @@
   <a href="https://www.leetcode.com/nasrallah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="Leetcode" height="30" width="40"/></a>
 </p>
 
----
 
-### 🚀 My Projects:
-- [Project 1](https://github.com/nasrallah-al/project1) - Short description.
-- [Project 2](https://github.com/nasrallah-al/project2) - Short description.
-- [More Projects](https://github.com/nasrallah-al?tab=repositories)
-
----
-
-### 🏆 Achievements:
-- 🥇 Successfully completed the [Udacity AI/ML Nanodegree](https://www.udacity.com/).
-- 👨‍💻 Contributed to several open-source projects like [ProjectName](link).
-- 🏅 Received top-rated badge in competitive coding on Leetcode.
-
----
-
-### 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nasrallah-al&theme=radical&hide_border=true" alt="Nasr's Activity Graph">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/nasrallah-al/nasrallah-al/raw/main/profile-qr.png" alt="Nasr's QR Code" width="150"/>
-</p>
