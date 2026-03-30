@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nasr!<br>🔧 Backend Developer | 🤖 AI Enthusiast <br><br>I'm a passionate developer with a solid foundation in backend technologies, including NestJS, ExpressJS, and various SQL/NoSQL databases. With hands-on experience in system design and a proven track record of building scalable solutions, I’m always exploring new ways to solve complex challenges.<br><br>I love collaborating on innovative projects and learning from others in the community. Let's build something amazing together! 🚀
+👋 Hi, I'm Nasr!<br> Backend Developer |  AI Enthusiast <br><br>I'm a passionate developer with a solid foundation in backend technologies, including NestJS, ExpressJS, and various SQL/NoSQL databases. With hands-on experience in system design and a proven track record of building scalable solutions, I’m always exploring new ways to solve complex challenges.<br><br>I love collaborating on innovative projects and learning from others in the community.
 
 
 ## 🌐 Socials:
